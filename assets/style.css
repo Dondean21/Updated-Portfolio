@@ -6,12 +6,12 @@ body{
 
 
 .nav-link {
-    color:#4aaaa5;
+    color:#aa654a;
 }
 
 
 h2 {
-    color: #4aaaa5;
+    color: #aa654a;
      font-family: Georgia, 'Times New Roman', Times, serif;
   }
 
@@ -21,7 +21,7 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-    border-top: 8px solid #4aaaa5;
+    border-top: 8px solid #aa654a;
     text-align: center;
 }
 
@@ -29,7 +29,7 @@ footer {
 
 .hangman{
     position: relative;
-    background-color: #4aaaa5;
+    background-color: #874aaa;
     color: white;
     padding: 15px;
     bottom: 85px;
@@ -40,7 +40,7 @@ footer {
 
 .RPG-Game {
     position: relative;
-    background-color: #4aaaa5;
+    background-color: #874aaa;
     color: white;
     padding: 15px;
     bottom: 85px;
@@ -50,7 +50,7 @@ footer {
 
 .Trivia-Game {
     position: relative;
-    background-color: #4aaaa5;
+    background-color: #874aaa;
     color: white;
     padding: 15px;
     bottom: 85px;
@@ -61,7 +61,7 @@ footer {
 
 .Info-Widget {
     position: relative;
-    background-color: #4aaaa5;
+    background-color: #874aaa;
     color: white;
     padding: 15px;
     bottom: 85px;
@@ -73,7 +73,7 @@ footer {
 
 .Rock-Paper-Scissors {
     position: relative;
-    background-color: #4aaaa5;
+    background-color: #874aaa;
     color: white;
     padding: 15px;
     bottom: 85px;
@@ -88,5 +88,8 @@ footer {
 .Rock-Paper-Scissors h3{
 font-size: 20pt;
 
+}
+.linkContainer{
+    text-align: center;
 }
 
